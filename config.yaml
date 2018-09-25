@@ -18,7 +18,7 @@ collate_exe: /short/v45/aph502/mom/bin/mppnccombine
 # Model config
 model: mom
 shortpath: /short/e14
-exe: fms_MOM_SIS.x
+exe: fms_MOM_SIS_subgm.x
 input:
      - mom025/mask_1920
      - gfdl_nyf_1080_clean
